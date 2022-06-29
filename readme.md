@@ -1,4 +1,4 @@
-# Robot Factory code challenge
+# Robot Factory code
 
 ## Description
 
